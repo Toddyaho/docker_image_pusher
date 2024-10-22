@@ -31,7 +31,6 @@ rabbitmq:3.8
 docker:20.10.11
 docker:latest
 docker:20.10
-kubernetes:v1.22.3
 kubernetes:latest
 kubernetes:v1.22
 git:2.33.0
