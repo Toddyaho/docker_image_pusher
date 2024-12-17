@@ -1,3 +1,4 @@
 nginx:1.26.1
 nginx:latest
 memcached:1.6.33
+memcached:1.5.22
