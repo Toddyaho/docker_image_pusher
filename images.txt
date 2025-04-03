@@ -1,2 +1,2 @@
-mongo:4.4
-elasticsearch:7.17.18
+minio:latest
+minio/minio
