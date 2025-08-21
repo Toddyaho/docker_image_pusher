@@ -1,1 +1,4 @@
-mongo:8.0.6
+jdk
+jdk17
+java8
+java17
