@@ -1,2 +1,1 @@
-java8
-java17
+openjdk:17-jre-slim
