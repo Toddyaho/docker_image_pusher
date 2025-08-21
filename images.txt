@@ -1,4 +1,3 @@
-jdk
 jdk17
 java8
 java17
